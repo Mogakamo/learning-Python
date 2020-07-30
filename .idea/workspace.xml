@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b27b925-4386-4d7d-a5dc-634c63a2e397" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aL8UkQCKWeyVX4LdgEAPWUvgJN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+  </component>
+  <component name="RunManager" selected="Python.numbers">
+    <configuration name="easy_install" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bin" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bin/easy_install" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bin/mogaka/All In One Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bin/mogaka/All In One Python/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bin/mogaka/All In One Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bin/mogaka/All In One Python/numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.numbers" />
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.easy_install" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b27b925-4386-4d7d-a5dc-634c63a2e397" name="Default Changelist" comment="" />
+      <created>1586503533261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586503533261</updated>
+      <workItem from="1586503538604" duration="996000" />
+      <workItem from="1586622035593" duration="5089000" />
+      <workItem from="1586666416466" duration="3897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="625" height="145" key="GridCell.Tab.0.bottom" timestamp="1586671356586">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="625" height="145" key="GridCell.Tab.0.bottom/0.27.1366.715@0.27.1366.715" timestamp="1586671356586" />
+    <state width="625" height="145" key="GridCell.Tab.0.center" timestamp="1586671356585">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="625" height="145" key="GridCell.Tab.0.center/0.27.1366.715@0.27.1366.715" timestamp="1586671356585" />
+    <state width="625" height="145" key="GridCell.Tab.0.left" timestamp="1586671356585">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="625" height="145" key="GridCell.Tab.0.left/0.27.1366.715@0.27.1366.715" timestamp="1586671356585" />
+    <state width="625" height="145" key="GridCell.Tab.0.right" timestamp="1586671356585">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="625" height="145" key="GridCell.Tab.0.right/0.27.1366.715@0.27.1366.715" timestamp="1586671356585" />
+    <state width="637" height="207" key="GridCell.Tab.1.bottom" timestamp="1586519323793">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="637" height="207" key="GridCell.Tab.1.bottom/0.27.1366.715@0.27.1366.715" timestamp="1586519323793" />
+    <state width="637" height="207" key="GridCell.Tab.1.center" timestamp="1586519323792">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="637" height="207" key="GridCell.Tab.1.center/0.27.1366.715@0.27.1366.715" timestamp="1586519323792" />
+    <state width="637" height="207" key="GridCell.Tab.1.left" timestamp="1586519323792">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="637" height="207" key="GridCell.Tab.1.left/0.27.1366.715@0.27.1366.715" timestamp="1586519323792" />
+    <state width="637" height="207" key="GridCell.Tab.1.right" timestamp="1586519323793">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="637" height="207" key="GridCell.Tab.1.right/0.27.1366.715@0.27.1366.715" timestamp="1586519323793" />
+    <state x="82" y="27" width="1274" height="715" key="SettingsEditor" timestamp="1586670037597">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state x="82" y="27" width="1274" height="715" key="SettingsEditor/0.27.1366.715@0.27.1366.715" timestamp="1586670037597" />
+    <state x="343" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1586666429259">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state x="343" y="212" key="com.intellij.ide.util.TipDialog/0.27.1366.715@0.27.1366.715" timestamp="1586666429259" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learn_Python$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1586671356566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/bin/mogaka/All In One Python" />
+    <SUITE FILE_PATH="coverage/Learn_Python$hello.coverage" NAME="hello Coverage Results" MODIFIED="1586666859778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/bin/mogaka/All In One Python" />
+    <SUITE FILE_PATH="coverage/Learn_Python$easy_install.coverage" NAME="easy_install Coverage Results" MODIFIED="1586503900172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/bin" />
+  </component>
+</project>
